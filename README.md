@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">I am Nymul Islam 👋</h1>
+<h1 align="center">I am Nymul Islam 🧑🏻‍💻</h1>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>Dedicated Back-End developer. I embrace challenges with unwavering patience and determination and believe in their conquerability. My passion revolves around unraveling puzzles, tackling intricate coding challenges, and adeptly solving mathematical problems. My strength lies in intuitive problem-solving, complemented by my expertise in languages such as C/C++, Python, and PHP. I specialize in the Laravel framework and MySQL databases, while also proficiently using tools like GitHub, Git, and Trello. I'm fueled by enthusiasm for transforming creative ideas into tangible projects, and I excel in translating business requirements into meticulous technical solutions. My ability to rapidly grasp new concepts further distinguishes me in the field.</h3>
+<h3 align="center">📖 About Me <br> Dedicated Back-End developer. I embrace challenges with unwavering patience and determination and believe in their conquerability. My passion revolves around unraveling puzzles, tackling intricate coding challenges, and adeptly solving mathematical problems. My strength lies in intuitive problem-solving, complemented by my expertise in languages such as C/C++, Python, and PHP. I specialize in the Laravel framework and MySQL databases, while also proficiently using tools like GitHub, Git, and Trello. I'm fueled by enthusiasm for transforming creative ideas into tangible projects, and I excel in translating business requirements into meticulous technical solutions. My ability to rapidly grasp new concepts further distinguishes me in the field.</h3>
 
 ###
 
@@ -90,15 +90,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nymul-islam-moon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="220" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=nymul-islam-moon&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nymul-islam-moon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nymul-islam-moon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nymul-islam-moon&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
