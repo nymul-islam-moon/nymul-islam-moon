@@ -37,7 +37,20 @@
 
 
 
-<h3 align="center">📖 About Me <br> Dedicated Back-End developer. I embrace challenges with unwavering patience and determination and believe in their conquerability. My passion revolves around unraveling puzzles, tackling intricate coding challenges, and adeptly solving mathematical problems. My strength lies in intuitive problem-solving, complemented by my expertise in languages such as C/C++, Python, and PHP. I specialize in the Laravel framework and MySQL databases, while also proficiently using tools like GitHub, Git, and Trello. I'm fueled by enthusiasm for transforming creative ideas into tangible projects, and I excel in translating business requirements into meticulous technical solutions. My ability to rapidly grasp new concepts further distinguishes me in the field.</h3>
+### 📖 About Me  
+
+Dedicated **Back-End Developer** with a passion for solving complex problems through intuitive and efficient solutions. I embrace challenges with unwavering patience and determination, believing that every problem has a conquerable solution.  
+
+My expertise spans across **PHP, Laravel, Vue.js, and React.js**, enabling me to craft seamless and dynamic web applications. I thrive on tackling intricate coding challenges, unraveling puzzles, and applying mathematical precision to my solutions.  
+
+### 🔹 Technical Skills  
+- **Languages:** C/C++, Python, PHP  
+- **Frameworks:** Laravel, Vue.js, React.js  
+- **Databases:** MySQL  
+- **Tools & Platforms:** GitHub, Git, Trello  
+
+Fueled by enthusiasm for transforming creative ideas into tangible projects, I excel in translating business requirements into meticulous technical solutions. My ability to **quickly grasp new concepts and adapt to emerging technologies** sets me apart in the ever-evolving field of development.  
+
 
 
 
