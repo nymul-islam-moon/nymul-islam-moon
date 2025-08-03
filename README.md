@@ -2,17 +2,11 @@
   <img src="https://profile-counter.glitch.me/nymul-islam-moon/count.svg?"  />
 </div>
 
-
-
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" hight="400"/>
 </div>
 
-
-
 <h1 align="center">I am Nymul Islam </h1>
-
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nymul-islam-moon-5b7622200/" target="_blank">
@@ -24,7 +18,7 @@
   <a href="https://www.youtube.com/channel/UCVQ6EHG_FNvJ-0nGiuj5fhA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="83" height="30" alt="youtube logo"  />
   </a>
-  <a href="towkir1997islam@gmail.com" target="_blank">
+  <a href="mailto:towkir1997islam@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="83" height="30" alt="gmail logo"  />
   </a>
   <a href="https://stackoverflow.com/users/13756777/nymul-islam-moon" target="_blank">
@@ -35,32 +29,69 @@
   </a>
 </div>
 
-
+---
 
 ### 📖 About Me  
 
-Dedicated **Back-End Developer** with a passion for solving complex problems through intuitive and efficient solutions. I embrace challenges with unwavering patience and determination, believing that every problem has a conquerable solution.  
+I’m a passionate **Full-Stack Software Engineer** from Bangladesh, currently working at **Bestofmine (UAE)**, previously at **WebAppick (Dhaka)**. My expertise spans from plugin development and Laravel-based systems to AI-enhanced web applications using **Vue.js, React.js, Livewire, GPT-4**, and **OCR with OpenAI Vision**.
 
-My expertise spans across **PHP, Laravel, Vue.js, and React.js**, enabling me to craft seamless and dynamic web applications. I thrive on tackling intricate coding challenges, unraveling puzzles, and applying mathematical precision to my solutions.  
+With 3+ years of experience, I’ve built:
+- Scalable platforms using **Laravel REST APIs + modern JS frameworks**
+- Intelligent systems powered by **OpenAI GPT-4**, OCR, and RAG
+- Custom **WordPress plugins** for WooCommerce
+- Real-time HRM, CRM, and ERP modules using clean, optimized code
 
-### 🔹 Technical Skills  
-- **Languages:** C/C++, Python, PHP  
-- **Frameworks:** Laravel, Vue.js, React.js  
-- **Databases:** MySQL  
-- **Tools & Platforms:** GitHub, Git, Trello  
+I'm also a passionate problem solver with **800+ solved problems** across platforms like **Codeforces, URI, and Vjudge**, and several ICPC-style awards.
 
-Fueled by enthusiasm for transforming creative ideas into tangible projects, I excel in translating business requirements into meticulous technical solutions. My ability to **quickly grasp new concepts and adapt to emerging technologies** sets me apart in the ever-evolving field of development.  
+---
 
+### 🔹 Tech Expertise  
 
+- **Languages:** PHP, C/C++, Python, JavaScript, HTML, CSS  
+- **Frameworks:** Laravel (9–11), Vue.js, React.js, Livewire 3  
+- **Libraries & Tools:** Alpine.js, FilamentPHP, Tailwind CSS, Bootstrap  
+- **AI & APIs:** OpenAI GPT-4, Vision API, RAG, OCR  
+- **Database:** MySQL, PostgreSQL, pgvector  
+- **Project Management:** Git, GitHub, Trello  
+- **DevOps/Deployment:** Laravel Cloud  
+- **CMS & Plugins:** WordPress, WooCommerce  
 
+---
 
-<h3 align="center">I'm from Bangladesh<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning PHP<br>- ⚡ In my free time I watch Movies</h3>
+### 🚀 Featured Projects  
 
+- 🔹 **E-Commerce Platform**  
+  Built with Laravel 11 + Vue.js. Real-time inventory, customer behavior tracking, and high-speed search with clean UI/UX.
 
+- 🔹 **HRM System**  
+  Laravel + Ionic + Vue. Features: in/out punch system (mobile), payroll automation, employee performance evaluations.
 
-<h3 align="left">🛠 Language and tools</h3>
+- 🔹 **CRM Platform**  
+  Lead collection, smart segmentation, multi-platform promotional campaigns, and customer conversion tracking.
 
+- 🔹 **AI-Driven Compliance Solution**  
+  Engineered a scalable web platform integrating:
+  - **OCR for label scanning** via OpenAI Vision  
+  - **GPT-4 RAG** for smart global ingredient compliance checks  
+  - **Semantic vector search** with pgvector + PostgreSQL  
+  - **Admin interface** with FilamentPHP  
+  - Fully deployed using **Laravel Cloud**
 
+- 🔹 **Medicine Delivery System**  
+  Smart search by name/generic/category. Stock, supplier, and payment management with automated invoicing.
+
+- 🔹 **Asset Management System**  
+  Tracks depreciation, damage, engineer assignments, and budgeting with lifecycle analytics.
+
+Explore more at: 🌐 [My Portfolio](https://nymul-islam-moon.github.io/)
+
+---
+
+<h3 align="center">I'm from Bangladesh<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 Currently learning advanced Vue.js and AI integration<br>- ⚡ I enjoy movies and competitive programming in my spare time</h3>
+
+---
+
+<h3 align="left">🛠 Language and Tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -92,11 +123,9 @@ Fueled by enthusiasm for transforming creative ideas into tangible projects, I e
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 </div>
 
-
+---
 
 <h3 align="left">🔥   My Stats :</h3>
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nymul-islam-moon&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
