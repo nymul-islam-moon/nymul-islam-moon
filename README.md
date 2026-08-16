@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/nymul-islam-moon/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=nymul-islam-moon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
+
 
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
