@@ -1,8 +1,9 @@
 <div align="center">
-  ![Backend](https://img.shields.io/badge/Focus-Backend-0e75b6?style=flat)
-  ![RAG](https://img.shields.io/badge/RAG-Vector%20Search-0e75b6?style=flat)
-</div>
 
+![Backend](https://img.shields.io/badge/Focus-Backend-0e75b6?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search-0e75b6?style=flat)
+
+</div>
 
 
 <div align="center">
