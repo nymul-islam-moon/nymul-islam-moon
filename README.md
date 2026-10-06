@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nymul-islam-moon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  ![Backend](https://img.shields.io/badge/Focus-Backend-0e75b6?style=flat)
+  ![RAG](https://img.shields.io/badge/RAG-Vector%20Search-0e75b6?style=flat)
 </div>
 
 
